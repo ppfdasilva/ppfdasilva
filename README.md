@@ -10,8 +10,8 @@ Languages and Tools:
 [<img alt="Python" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" />](https://www.python.org)
 [<img alt="PostgreSQL" width="93px" src="https://digitalis.io/wp-content/uploads/2020/12/PostgreSQL600x340.jpg" />](https://www.postgresql.org)
 [<img alt="MongoDB" width="133px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png" />](https://www.mongodb.com)
-[<img alt="Power BI" width="120px" src="https://adhoc-consult.com/wp-content/uploads/2022/10/powerbi_logo-1.png" />](https://powerbi.microsoft.com/pt-br/)
-[<img alt="Power Automate" width="60px" src="https://www.deskdirector.com/hubfs/microsoft%20power%20automate.webp" />](https://powerautomate.microsoft.com/pt-br/)
+[<img alt="Power BI" width="120px" src="https://adhoc-consult.com/wp-content/uploads/2022/10/powerbi_logo-1.png" />](https://powerbi.microsoft.com/)
+[<img alt="Power Automate" width="60px" src="https://www.deskdirector.com/hubfs/microsoft%20power%20automate.webp" />](https://powerautomate.microsoft.com/)
 
 
 
