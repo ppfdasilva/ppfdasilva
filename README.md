@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Pedro Paulo
+### Hi there 👋, I'm Pedro Fernandes
 
 Data Scientist from Brazil 🇧🇷
 
