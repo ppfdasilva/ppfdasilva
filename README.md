@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pedro Fernandes
 
-Data Scientist from Brazil 🇧🇷
+Energy Consultant and Data Scientist from Brazil 🇧🇷
 
 Connect with me: ppfdasilva@gmail.com
 
